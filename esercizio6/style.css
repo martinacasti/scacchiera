@@ -1,0 +1,179 @@
+.container{
+    margin-top: 100px;
+    margin-left: 300px;
+    display: block;
+  
+}
+
+.numbers{
+    display: inline-block;
+    text-align: center;
+}
+
+
+.quadrato{
+    border:solid;
+    display:inline-block;
+    width: 20px;
+    height: 20px;
+    padding:20px;
+
+
+    
+        
+}
+.quadrato:nth-child(odd){
+    background-color:rgb(213, 192, 134);
+}
+
+.quadrato:nth-child(even){
+    background-color:black;
+}
+
+.quadrato:hover{
+    background-color: red;
+    cursor: pointer;
+}
+ 
+
+.quadrato1{
+    border: solid;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    padding: 20px;     
+}
+
+.quadrato1:nth-child(odd){
+    background-color:black;
+}
+
+.quadrato1:nth-child(even){
+    background-color:rgb(213, 192, 134);
+}
+
+.quadrato1:hover{
+    background-color: red;
+    cursor: pointer;
+}
+
+.quadrato2{
+    border: solid;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    padding:20px;
+        
+}
+.quadrato2:nth-child(odd){
+    background-color:rgb(213, 192, 134);
+}
+
+.quadrato2:nth-child(even){
+    background-color:black;
+}
+
+.quadrato2:hover{
+    background-color: red;
+    cursor: pointer;
+}
+
+.quadrato3{
+    border: solid;
+    display:inline-block;
+    width: 20px;
+    height: 20px;
+    padding:20px;    
+}
+
+.quadrato3:nth-child(odd){
+    background-color:black;
+}
+
+.quadrato3:nth-child(even){
+    background-color:rgb(213, 192, 134);
+}
+
+.quadrato3:hover{
+    background-color: red;
+    cursor: pointer;
+}
+
+.quadrato4{
+    border: solid;
+    display:inline-block;
+    width: 20px;
+    height: 20px;
+    padding:20px;
+    
+}
+.quadrato4:nth-child(odd){
+    background-color:rgb(213, 192, 134);
+}
+
+.quadrato4:nth-child(even){
+    background-color:black;
+}
+
+.quadrato4:hover{
+    background-color: red;
+    cursor: pointer;
+}
+
+.quadrato5{
+    border: solid;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    padding:20px;
+}
+.quadrato5:nth-child(odd){
+    background-color:black;
+}
+
+.quadrato5:nth-child(even){
+    background-color:rgb(213, 192, 134);
+}
+.quadrato5:hover{
+    background-color: red;
+    cursor: pointer;
+}
+
+.quadrato6{
+    border: solid ;
+    display:inline-block;
+    width: 20px;
+    height: 20px;
+    padding:20px;
+}
+
+.quadrato6:nth-child(odd){
+    background-color:rgb(213, 192, 134);
+}
+
+.quadrato6:nth-child(even){
+    background-color:black;
+}
+.quadrato6:hover{
+    background-color: red;
+    cursor: pointer;
+}
+
+.quadrato7{
+    border: solid ;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    padding:20px;
+}
+.quadrato7:nth-child(odd){
+    background-color:black;
+}
+
+.quadrato7:nth-child(even){
+    background-color:rgb(213, 192, 134);
+}
+.quadrato7:hover{
+    background-color: red;
+    cursor: pointer;
+}
